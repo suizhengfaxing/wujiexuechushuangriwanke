@@ -18,7 +18,7 @@ body {
 rt {
   transform: scale(0.8,1);
   font-size: 0.85em;
-  font-weight: 200;
+  font-weight: normal;
 }
 .container{
     padding:20px 10px 70px 10px!important;
